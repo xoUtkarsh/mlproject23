@@ -5,4 +5,5 @@ matplotlib
 scikit-learn
 catboost
 xgboost
+dill
 # -e .    --------This is commented out because we don't want to build packages again and again
